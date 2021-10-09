@@ -1,0 +1,5 @@
+var items = {
+	"milk": 12,
+	"bread": 25,
+	"juice": 15
+}
