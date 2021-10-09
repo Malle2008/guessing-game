@@ -1,5 +1,5 @@
 {
-	"milk": 12,
-	"bread": 25,
-	"juice": 15
+	{'prize': 12, 'name': 'milk', 'id': 1 }
+	{'prize': 15, 'name': 'bread', 'id': 2 }
+	{'prize': 20, 'name': 'juice', 'id': 3 }
 }
