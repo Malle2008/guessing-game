@@ -1,13 +1,13 @@
 [
 
 	{
-		"item" : "milk", 
+		"item" : "tree painting", 
 		"image" : "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
-		"id" : 1 
+		"prize" :  1200
 	},
 	{
-		"item" : "bread",
+		"item" : "Linkorganizer",
 		"image" : "https://linkorganizer.se/linkorganizer-logo-v2.png",
-		"id" : 2
+		"prize" : 100
 	}
 ]
