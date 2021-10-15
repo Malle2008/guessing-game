@@ -1,13 +1,17 @@
 [
-
-	{
-		"item" : "tree painting", 
-		"image" : "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
-		"prize" :  1200
-	},
-	{
-		"item" : "Linkorganizer",
-		"image" : "https://linkorganizer.se/linkorganizer-logo-v2.png",
-		"prize" : 100
-	}
+    {
+        "item" : "LCD 65 tum TV",
+        "price" : 7000,
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHG9Mz90Ib7lOPgggxkhi1i9gLwR53j020Pw&usqp=CAU"
+    },
+    {
+        "item" : "1L mjölk",
+        "price" : 15,
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoZ7Vj8gyyxFG8h5cuj2Q6KCj5Wz0zZGb6_A&usqp=CAU"
+    },
+    {
+        "item" : "rubriks speed kub",
+        "price" : 250,
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-nPgYf_OHk_4pD5WQpojAv-JKFD63s4WZjw&usqp=CAU"
+    }
 ]
